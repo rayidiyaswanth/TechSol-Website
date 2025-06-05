@@ -31925,7 +31925,19 @@ span.select2-selection.select2-selection--single:focus {
 
 
 .checklist {
-  column-count: 3;
+  column-count: 1;
+}
+
+@media (min-width: 768px) {
+  .checklist {
+    column-count: 2;
+  }
+}
+
+@media (min-width: 1240px) {
+  .checklist {
+    column-count: 3;
+  }
 }
 
 
