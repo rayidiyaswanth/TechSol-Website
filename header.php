@@ -130,18 +130,18 @@
                         <li class="menu-item-has-children">
                             <a href="#">Digital Marketing Courses</a>
                             <ul class="sub-menu mg">
-                                <li><a href="./course-details.php">WordPress Training</a></li>
+                                <li><a href="./wordpress-training.php">WordPress Training</a></li>
                                 <li>
-                                    <a href="#">Advanced Digital Marketing Training</a>
+                                    <a href="./advanced-digital-marketing.php">Advanced Digital Marketing Training</a>
                                 </li>
                                 <li>
-                                    <a href="#">Search Engine Optimization Training</a>
+                                    <a href="./search-engine-optimization.php">Search Engine Optimization Training</a>
                                 </li>
                                 <li>
-                                    <a href="#">Social Media Marketing Training</a>
+                                    <a href="./social-media-marketing.php">Social Media Marketing Training</a>
                                 </li>
                                 <li>
-                                    <a href="#">Google AdWords Training</a>
+                                    <a href="./google-adwords.php">Google AdWords Training</a>
                                 </li>
 
                             </ul>
@@ -442,18 +442,18 @@
                                                 <li class="menu-item-has-children">
                                                     <a href="#">Digital Marketing Courses</a>
                                                     <ul class="sub-menu mg">
-                                                        <li><a href="./course-details.php">WordPress Training</a></li>
+                                                        <li><a href="./wordpress-training.php">WordPress Training</a></li>
                                                         <li>
-                                                            <a href="#">Advanced Digital Marketing Training</a>
+                                                            <a href="./advanced-digital-marketing.php">Advanced Digital Marketing Training</a>
                                                         </li>
                                                         <li>
-                                                            <a href="#">Search Engine Optimization Training</a>
+                                                            <a href="./search-engine-optimization.php">Search Engine Optimization Training</a>
                                                         </li>
                                                         <li>
-                                                            <a href="#">Social Media Marketing Training</a>
+                                                            <a href="./social-media-marketing.php">Social Media Marketing Training</a>
                                                         </li>
                                                         <li>
-                                                            <a href="#">Google AdWords Training</a>
+                                                            <a href="./google-adwords.php">Google AdWords Training</a>
                                                         </li>
 
                                                     </ul>
